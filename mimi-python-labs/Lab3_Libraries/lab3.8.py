@@ -1,0 +1,7 @@
+n = input("input a word: ")
+print("the input is %s"%n)
+print(n.upper())
+print(n.capitalize())
+print(n.isalpha())
+print(n.isnumeric())
+print(n.isupper())

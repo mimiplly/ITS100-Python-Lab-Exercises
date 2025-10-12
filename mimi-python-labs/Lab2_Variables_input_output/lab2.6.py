@@ -1,0 +1,11 @@
+first = input("Enter the first number: ")
+second = input("Enter the second number: ")
+third = input("Enter the third number: ")
+first, second, third = float(first), float(second), float(third)
+average = (first + second + third) / 3
+summation = first + second + third
+multiplication = first * second * third
+print("a,b,c = %.2f, %.2f, %.2f" % (first, second, third))
+print("the average of three integers = %.2f " % average)
+print("the summation of three integers = %.2f " % summation)
+print("the multiplication of three integers = %.2f " % multiplication)
