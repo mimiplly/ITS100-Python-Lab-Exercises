@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.6
 n = input("enter dd/mm/yyyy: ")
 if len(n) == 8:
     date = n[:2]

@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.6
 first = input("Enter the first number: ")
 second = input("Enter the second number: ")
 third = input("Enter the third number: ")

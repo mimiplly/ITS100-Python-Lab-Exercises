@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.9
 ##REVIEW
 a = input("a = ").split(" ")
 b = input("b = ").split(" ")

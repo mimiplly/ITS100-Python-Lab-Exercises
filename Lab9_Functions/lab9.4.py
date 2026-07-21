@@ -1,33 +1,15 @@
-#ITS100 Lecture9 Functions Lab9.3
+#ITS100 Lecture9 Functions Lab9.4
 def UserInput():
-    while True:
-            inp = input("Enter an input: ")
-            if inp.isnumeric() and int(inp) >= 0:
-                x.append(int(inp))
-            elif inp == "Done":
-                print("")
-                print("The summation is",SumOut())
-                print("The minimum is",MinOut())
-                print("The maximum is",MaxOut())
-                break
-            else:
-                print("Error")
-                break
-
-def SumOut():
-    # summation = sum(x)
-    # return summation
-    return sum(x)
-
-def MinOut():
-    # minimum = min(x)
-    # return minimum
-    return min(x)
-
-def MaxOut():
-    # maximum = max(x)
-    # return maximum
-    return max(x)
+    global weight,height
+    weight = float(input("Input your weight (kilogram): "))
+    height = float(input("Input your height (meter): "))
     
-x = []
+def FindBMI(hh,ww):
+    BMI = weight/(height**2)
+    return BMI
+
+def ShowBMI(MyBMI):
+    print("The user BMI is %.2f"%MyBMI)
+    
 UserInput()
+ShowBMI(FindBMI(weight,height))

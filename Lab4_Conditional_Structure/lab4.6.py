@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.6
 print("===============================")
 x = float(input("Input x = "))
 y = float(input("Input y = "))

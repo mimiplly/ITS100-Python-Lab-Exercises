@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.8
 print("welcome to pizza online ordering system")
 print("please input 'y' if you want to order, otherwise input 'n' to exit")
 price = 0

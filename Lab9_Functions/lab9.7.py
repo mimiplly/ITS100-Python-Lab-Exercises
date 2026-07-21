@@ -1,8 +1,8 @@
-#ITS100 Lecture9 Functions Lab9.6
-def CelsiusToFahrenheit(c):
-    c = float(c)
-    fah = (c*(9/5))+ 32
-    print("The degree in Fahrenheit is %.2f"%fah)
-
-cel = input("Input temperature in degree Celcius: ")
-CelsiusToFahrenheit(cel)
+#ITS100 Lecture9 Functions Lab9.7
+def TriArea(h, b):
+    area = 0.5*h*b
+    print("The area of the triangle is %.1f"%area)
+    
+h = float(input("Enter the height (h): "))
+b = float(input("Enter the base (b): "))
+TriArea(h, b)

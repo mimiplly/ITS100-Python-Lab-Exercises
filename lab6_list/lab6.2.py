@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.2
 n = input("enter a comma-seperated list: ").split(",")
 if len(n) >= 3:
     if len(n) == 3:

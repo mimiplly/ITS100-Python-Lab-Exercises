@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.10
 print("Welcome to income tax computation program ")
 income = int(input("Enter your income (THB  ): "))
 if 50001 < income < 100000:

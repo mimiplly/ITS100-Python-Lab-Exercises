@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.9
 pt = int(input("Input parking time (in minutes): "))
 hour = pt//60
 frac = pt%60

@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.7
 import random as r
 list = []
 for i in range(4):

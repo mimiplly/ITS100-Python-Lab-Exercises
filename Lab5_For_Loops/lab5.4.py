@@ -1,3 +1,4 @@
+#ITS100 Lecture5 Repetition Structure: For Loops Lab5.4
 integer = int(input("Enter an integer (n>0): "))
 print(" (1) Factorial of n (n!)")
 print(" (2) Sum of integers from 1 to n")

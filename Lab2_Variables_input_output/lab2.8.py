@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.8
 x = input("Enter the first integer number: ")
 y = input("Enter the second integer number: ")
 x,y = int(x),int(y)

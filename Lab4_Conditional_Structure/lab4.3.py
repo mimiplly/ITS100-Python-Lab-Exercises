@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.3
 days = int(input("Enter the number of days: "))
 hours = int(input("Enter the number of hours: "))
 

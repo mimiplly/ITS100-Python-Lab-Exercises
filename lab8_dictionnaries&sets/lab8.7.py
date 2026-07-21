@@ -1,4 +1,4 @@
-#ITS100 Lecture8 Dictionaries & Sets Lab8.6
+#ITS100 Lecture8 Dictionaries & Sets Lab8.7
 pair = {}
 while True:
   try:

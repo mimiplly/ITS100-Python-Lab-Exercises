@@ -1,3 +1,4 @@
+#ITS100 Lecture5 Repetition Structure: For Loops Lab5.3
 print("Multiplication table:)")
 num = int(input(("Plese enter a number between 1 to  25:")))
 if num < 1 or num > 25:

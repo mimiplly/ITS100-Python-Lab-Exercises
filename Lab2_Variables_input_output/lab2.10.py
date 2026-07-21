@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.10
 print(">>>======= REstART =======")
 print(">>>")
 ITS = input("enter grade from ITS100: ")

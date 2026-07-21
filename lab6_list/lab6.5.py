@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.5
 n = int(input("how many persons in a group?: "))
 list = []
 for i in "ABC":

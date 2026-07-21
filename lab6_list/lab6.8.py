@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.8
 n = input("enter a string: ")
 list = []
 for i in n:

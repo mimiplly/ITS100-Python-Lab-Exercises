@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.4
 namelist = ["mimi", "mumu", "mama"]
 for i in range(3):
     print("student list:",namelist)

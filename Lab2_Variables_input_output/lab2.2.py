@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.2
 x = input("Enter x: ")
 y = input("Enter y: ")
 x,y = float(x),float(y)

@@ -1,3 +1,4 @@
+#ITS100 Lecture5 Repetition Structure: For Loops Lab5.7
 #10 times
 like = 0
 sad = 0

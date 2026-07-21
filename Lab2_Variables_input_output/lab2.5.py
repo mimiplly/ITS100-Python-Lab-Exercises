@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.5
 four = input("Enter a four-digit integer: ")
 four = float(four)
 FirstTwo = four//100

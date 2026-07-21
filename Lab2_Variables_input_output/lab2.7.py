@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.7
 weight = input("Input Weight (kg): ")
 height = input("Input Height (m): ")
 weight, height = float(weight), float(height)

@@ -1,3 +1,4 @@
+#ITS100 Lecture3 Libraries Lab3.7
 import random as r
 a = str(r.randint(8,9))
 b = str(r.randint(6,7))

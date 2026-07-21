@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.3
 mi=[]
 for i in range(1,6):
     n = int(input(f"Input #{i}: "))

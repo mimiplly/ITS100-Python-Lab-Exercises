@@ -1,3 +1,4 @@
+#ITS100 Lecture8 Dictionaries & Sets Ex8.11
 #Create an empthy dictionary
 words = {}
 while True:

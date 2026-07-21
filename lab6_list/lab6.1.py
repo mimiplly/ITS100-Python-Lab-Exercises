@@ -1,3 +1,4 @@
+#ITS100 Lecture6 Lists Lab6.1
 n = input("enter a comma seperated list: ").split(',')
 for i in range(len(n)):
     for j in range(len(n)):

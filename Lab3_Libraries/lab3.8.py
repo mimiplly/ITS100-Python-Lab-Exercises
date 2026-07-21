@@ -1,3 +1,4 @@
+#ITS100 Lecture3 Libraries Lab3.8
 n = input("input a word: ")
 print("the input is %s"%n)
 print(n.upper())

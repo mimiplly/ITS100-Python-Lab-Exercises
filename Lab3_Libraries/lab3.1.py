@@ -1,3 +1,4 @@
+#ITS100 Lecture3 Libraries Lab3.1
 import numpy as np
 import matplotlib.pyplot as plt
 from math import*

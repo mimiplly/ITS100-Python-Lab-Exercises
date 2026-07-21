@@ -1,12 +1,10 @@
-#ITS100 Lecture9 Functions Lab9.8
-def myRange(FirstVal, UpperBound, StepSize):
-    Range = []
-    for i in range(FirstVal,UpperBound,StepSize):
-        Range.append(i)
-    print("Range =",Range)
-    
-FirstVal = int(input("Enter the first number: "))
-UpperBound = int(input("Enter the upper bound: "))
-StepSize = int(input("Enter the step: "))
-myRange(FirstVal, UpperBound, StepSize)
-    
+#ITS100 Lecture9 Functions Lab9.9
+from math import*
+def myCylinder(r,h):
+    v = pi*r**2*h
+    a = 2*pi*r*h + 2*pi*r**2
+    print("The volume is %.2f and the surface area is %.2f"%(v,a))
+
+r = float(input("Enter the radius r of the cylinder: "))
+h = float(input("Enter the height h of the cylinder: "))
+myCylinder(r,h)

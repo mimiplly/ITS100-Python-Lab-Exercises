@@ -1,3 +1,4 @@
+#ITS100 Lecture3 Libraries Lab3.6
 
 from math import *
 d = float(input("Enter the distance to the building: "))

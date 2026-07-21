@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.3
 r = input("Input Radius (cm): ")
 h = input("Input Height (cm): ")
 r, h = float(r), float(h)

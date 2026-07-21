@@ -1,3 +1,4 @@
+#ITS100 Lecture1 Print Command Lab1.5
 print("h")
 print("he")
 print("hel")

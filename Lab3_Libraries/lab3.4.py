@@ -1,3 +1,4 @@
+#ITS100 Lecture3 Libraries Lab3.4
 from math import *
 x1 = float(input("Enter coordinate X for P1: "))
 y1 = float(input("Enter coordinate Y for P1: "))

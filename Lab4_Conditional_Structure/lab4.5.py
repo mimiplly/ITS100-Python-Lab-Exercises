@@ -1,3 +1,4 @@
+#ITS100 Lecture4 Conditional Structure Lab4.5
 # 687
 amount = int(input("Enter the amount of money you would like to withdraw: "))
 print("We may give you:")

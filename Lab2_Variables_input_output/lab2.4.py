@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.4
 full = input("Input Full Score = ")
 real = input("Input Real Score = ")
 print(" --------------")

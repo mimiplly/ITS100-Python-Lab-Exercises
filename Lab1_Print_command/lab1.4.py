@@ -1,3 +1,4 @@
+#ITS100 Lecture1 Print Command Lab1.4
 x = "*"
 print(10*x)
 print(9*x)

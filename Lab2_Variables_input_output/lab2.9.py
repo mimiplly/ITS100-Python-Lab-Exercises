@@ -1,3 +1,4 @@
+#ITS100 Lecture2 Variables Input Output Lab2.9
 a =input("Enter the first number: ")
 print(" ")
 b =input("Enter the second number: ")
